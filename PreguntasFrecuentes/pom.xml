@@ -54,7 +54,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+
 		<!-- JUnit Jupiter completo (API, Engine, Params) -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
@@ -88,6 +88,8 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-hateoas</artifactId>
 		</dependency>
+	</dependencies>
+		
 	
 
 	<build>
